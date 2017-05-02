@@ -4,9 +4,13 @@
  1. Drag and Drop API
     * W3schools - https://www.w3schools.com/html/html5_draganddrop.asp
  2. Gelocation API
+    * W3schools - https://www.w3schools.com/html/html5_geolocation.asp
  3. Local Storage
+    * W3schools - https://www.w3schools.com/html/html5_webstorage.asp
  4. Web Workers
+    * W3schools - https://www.w3schools.com/html/html5_webworkers.asp
  5. SSE(Server Sent Events)
+    * W3schools - https://www.w3schools.com/html/html5_serversentevents.asp
  
 # Agenda - JavaScript( ES5 & ES6 )
 
