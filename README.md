@@ -11,7 +11,20 @@
 
  1. Copy by value & Copy by reference & Deep Copying
  2. Clousres(Encapsulation, Information Hiding)
- 3. Design Patterns(Singleton, Modular, Prototype, Observor)
+ 3. Design Patterns
+    * Constructor Pattern
+    * Module Pattern
+    * Revealing Module Pattern
+    * Singleton Pattern
+    * Observer Pattern
+    * Mediator Pattern
+    * Prototype Pattern
+    * Command Pattern
+    * Facade Pattern
+    * Factory Pattern
+    * Mixin Pattern
+    * Decorator Pattern
+    * Flyweight Pattern
  4. Promises and Defferd
  5. Inhertiance(Apply, Call and Bind)
  6. Object Oriented JavaScript programming
@@ -39,3 +52,10 @@
 10. Creating Signup Form with CSS
 11. Creating Responsive Menubar with CSS
 12. Creating Modals and Image Modals with CSS
+13. Creating Parallax effect with CSS
+14. Making Tables fancier with CSS
+15. 
+
+# Agenda - AngularJS
+ 1. Bootstrapping AngularJS
+ 2. 
