@@ -16,6 +16,9 @@
 
  1. Copy by value & Copy by reference & Deep Copying
  2. Clousres(Encapsulation, Information Hiding)
+    * JavaScriptIsSexy - http://javascriptissexy.com/understand-javascript-closures-with-ease/
+    * W3Schools        - https://www.w3schools.com/js/js_function_closures.asp
+    * Developer Mozila - https://developer.mozilla.org/en/docs/Web/JavaScript/Closures
  3. Design Patterns - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
     * Constructor Pattern
     * Module Pattern
@@ -33,6 +36,7 @@
  4. Promises and Defferd
  5. Inhertiance(Apply, Call and Bind)
  6. Object Oriented JavaScript programming
+    * Developer Mozila - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
 # Agenda - CSS3
 
@@ -71,7 +75,7 @@
  6. Understanding directives/components 
  7. Understanding John Papa style guide for AngularJS
  
- # Agenda - NodeJS
+# Agenda - NodeJS
  
  1. Understanding NPM and NodeJS ecosystem
     * Non-Blocking IO Model
