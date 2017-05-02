@@ -1,6 +1,6 @@
 # css-workshop
 
-# css-examples
+# Agenda
 
  1. CSS Positions
  2. CSS Flexbox
