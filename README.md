@@ -15,6 +15,8 @@
 # Agenda - JavaScript( ES5 & ES6 )
 
  1. Copy by value & Copy by reference & Deep Copying
+    * StackOverflow - http://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value
+    * HeyJavaScript - http://heyjavascript.com/4-creative-ways-to-clone-objects/
  2. Clousres(Encapsulation, Information Hiding)
     * JavaScriptIsSexy - http://javascriptissexy.com/understand-javascript-closures-with-ease/
     * W3Schools        - https://www.w3schools.com/js/js_function_closures.asp
