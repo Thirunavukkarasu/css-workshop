@@ -65,3 +65,16 @@
  5. Understanding built in services like $http, $log 
  6. Understanding directives/components 
  7. Understanding John Papa style guide for AngularJS
+ 
+ # Agenda - NodeJS
+ 
+ 1. Understanding NPM and NodeJS ecosystem
+    * Non-Blocking IO Model
+    * Asynchronous Events and Event loop
+ 2. Understanding framework ExpressJS
+ 3. Understanding about creating Middlewares
+ 4. Understanding Modualrization(Imports snd Exports)
+ 5. Understanding Configuration for environments(dev, test, production)
+ 6. Working with NoSQL databases(MongoDB)
+ 7. Working with Mongoose and Models
+ 8. Working with developing RESTful Web Services
