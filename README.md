@@ -16,7 +16,7 @@
 
  1. Copy by value & Copy by reference & Deep Copying
  2. Clousres(Encapsulation, Information Hiding)
- 3. Design Patterns
+ 3. Design Patterns - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
     * Constructor Pattern
     * Module Pattern
     * Revealing Module Pattern
