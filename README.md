@@ -54,7 +54,7 @@
 12. Creating Modals and Image Modals with CSS
 13. Creating Parallax effect with CSS
 14. Making Tables fancier with CSS
-15. 
+15. Creating Mega Menus with CSS
 
 # Agenda - AngularJS
  1. Bootstrapping AngularJS
