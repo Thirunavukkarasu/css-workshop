@@ -58,4 +58,10 @@
 
 # Agenda - AngularJS
  1. Bootstrapping AngularJS
- 2. 
+ 2. Understading routes and routeProvider
+ 3. Difference between ngRoute and ui-router
+ 3. Understanding scope and controllers
+ 4. Understanding services, factories and providers
+ 5. Understanding built in services like $http, $log 
+ 6. Understanding directives/components 
+ 7. Understanding John Papa style guide for AngularJS
