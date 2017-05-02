@@ -2,7 +2,7 @@
 
 # Agenda - HTML5
  1. Drag and Drop API
-    * W3schools - ![DD](https://www.w3schools.com/html/html5_draganddrop.asp)
+    * W3schools - https://www.w3schools.com/html/html5_draganddrop.asp
  2. Gelocation API
  3. Local Storage
  4. Web Workers
